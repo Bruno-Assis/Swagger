@@ -6,7 +6,7 @@ info:
 version: production
 schemes: 
  - "http"
-host: 84.247.161.43:443
+host: 84.247.161.43:8080
 produces:
 - application/xml
 - application/json
