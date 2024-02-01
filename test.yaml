@@ -4,6 +4,8 @@ info:
   description: Test SWAGGER injection
   
 version: production
+schemes: 
+ - "http"
 host: 84.247.161.43:443
 produces:
 - application/xml
